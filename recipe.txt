@@ -1,0 +1,3 @@
+egg 1
+milk 5
+onion 1
